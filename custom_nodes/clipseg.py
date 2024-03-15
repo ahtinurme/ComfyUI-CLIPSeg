@@ -230,6 +230,6 @@ class CombineMasks:
 # A dictionary that contains all nodes you want to export with their names
 # NOTE: names should be globally unique
 NODE_CLASS_MAPPINGS = {
-    "CLIPSeg": CLIPSeg,
-    "CombineSegMasks": CombineMasks,
+    "CLIPSeg2": CLIPSeg,
+    "CombineSegMasks2": CombineMasks,
 }
